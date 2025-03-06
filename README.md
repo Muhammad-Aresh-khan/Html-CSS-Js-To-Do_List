@@ -45,7 +45,13 @@ This project implements several **core JavaScript concepts**, including:
 4. Click **"Clear All"** to delete all tasks.  
 5. Tasks remain saved even after refreshing the page.  
 
-## Screenshots  
+
+## Live Demo 🚀 
+
+ https://muhammad-aresh-khan.github.io/Html-CSS-Js-To-Do_List/
+ 
+ ## Screenshots  
+
 ![image](https://github.com/user-attachments/assets/184b98dd-54c0-4b57-b767-3cd021f1abd1)
 
 
